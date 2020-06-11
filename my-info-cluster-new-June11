@@ -1,0 +1,5 @@
+Username	RHT_OCP4_DEV_USER	piyush-piyu-us-ibm-com
+Password	RHT_OCP4_DEV_PASSWORD	cb4020675ee24ada8b45
+API Endpoint	RHT_OCP4_MASTER_API	https://api.ocp-na2.prod.nextcle.com:6443
+Console Web Application		https://console-openshift-console.apps.ocp-na2.prod.nextcle.com
+Cluster Id		57c48a8d-c97b-433f-86f2-c6c80c516bed
